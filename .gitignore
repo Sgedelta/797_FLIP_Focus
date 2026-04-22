@@ -1,12 +1,12 @@
 #################################
 # Unreal Engine Generated Files #
 #################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+FLIP_VP/[Bb]uild
+FLIP_VP/[Bb]uilds
+FLIP_VP/Binaries
+FLIP_VP/DerivedDataCache
+FLIP_VP/Intermediate
+FLIP_VP/Saved
 
 #################################
 # Visual Studio Generated Files #
